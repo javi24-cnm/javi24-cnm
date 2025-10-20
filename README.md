@@ -2,6 +2,13 @@
 
 ## Mechatronic Engineer|Industrial Managment Student |
 
+### 🔭 My Current Focus (Design and Manufacturing Engineer)
+- ⚙️ **Production planning and coordination** in the machining area, ensuring delivery times and client requirements are met.
+- 💻 **CNC machine programming **, optimizing sequences and cycle times for machining processes.
+- 📈 **Managing new projects**, participating from the design phase through to serial production.
+- 📊 **Dimensional inspection and GD&T analysis** using the Keyence IM-8000 system to generate quality reports.
+- ✅ **First-piece release and validation** to launch production runs.
+- 🎓 Currently pursuing a degree in **Industrial Management Engineering** at UnADM (2023-Present).
 
 ## ☁️ Languages
 Spanish (Native) | English (Fluent) |
