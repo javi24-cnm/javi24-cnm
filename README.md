@@ -16,6 +16,7 @@ Spanish (Native) | English (Fluent) |
 ![Metrología](https://img.shields.io/badge/-Metrología-yellow?style=for-the-badge)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-DA1F28?style=for-the-badge&logo=solidworks&logoColor=white)
 ![Mastercam](https://img.shields.io/badge/Mastercam-1E5288?style=for-the-badge&logo=mastercam&logoColor=white)
+![Siemens NX](https://img.shields.io/badge/Siemens%20NX-005499?style=for-the-badge&logo=siemens&logoColor=white)
 
 #### 💻 Automation & Software
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
