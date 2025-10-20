@@ -1,16 +1,19 @@
-# Hello, World! 🌎 I'm JUAN JAVIER VARGAS CRUZ 👋
+# Hello, 🌎 I'm JUAN JAVIER VARGAS CRUZ 👋
 
-<!--
-**javi24-cnm/javi24-cnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there, I’m Bruna Dragulin 
+ Mechatronic Engineering|Industrial Managment Student |
+"Coding with ambition, designing with passion, and leading with grace—making every project uniquely elegant."
 
-Here are some ideas to get you started:
+Profile Views
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently: Seeking a challenging Junior Software Engineer role or meaningful internship to grow my skills and contribute to impactful projects.
+
+
+☁️ Languages
+Spanish (Native) | English (Fluent) |
+
+
+
+Tech Stack & Tools
+Programming & Development
+Python C++ 
