@@ -25,5 +25,5 @@ Spanish (Native) | English (Fluent) |
 ![Excel](https://img.shields.io/badge/Excel%20-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 📫 How to Reach Me
-- [cite_start]**LinkedIn:** [https://www.linkedin.com/in/juan-javier-v/](https://www.linkedin.com/in/juan-javier-v/) [cite: 2]
-- [cite_start]**Email:** cross9422@hotmail.com [cite: 2]
+- **LinkedIn:** [https://www.linkedin.com/in/juan-javier-v/](https://www.linkedin.com/in/juan-javier-v/)
+- **Email:** cross9422@hotmail.com
