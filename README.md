@@ -23,3 +23,7 @@ Spanish (Native) | English (Fluent) |
 ![PLC](https://img.shields.io/badge/PLC%20(Siemens%2C%20AB)-009999?style=for-the-badge&logo=siemens&logoColor=white)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFC20E?style=for-the-badge&logo=labview&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel%20-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 📫 How to Reach Me
+- [cite_start]**LinkedIn:** [https://www.linkedin.com/in/juan-javier-v/](https://www.linkedin.com/in/juan-javier-v/) [cite: 2]
+- [cite_start]**Email:** cross9422@hotmail.com [cite: 2]
