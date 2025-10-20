@@ -28,6 +28,7 @@ Spanish (Native) | English (Fluent) |
 ![PLC](https://img.shields.io/badge/PLC%20-009999?style=for-the-badge&logo=siemens&logoColor=white)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFC20E?style=for-the-badge&logo=labview&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel%20-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 📫 How to Reach Me
 - **LinkedIn:** [https://www.linkedin.com/in/juan-javier-v/](https://www.linkedin.com/in/juan-javier-v/)
