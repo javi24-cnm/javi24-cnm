@@ -1,6 +1,5 @@
 # Hello, 🌎 I'm JUAN JAVIER VARGAS CRUZ 👋
 
-## Hello there, I’m Juan Javier Vargas Cruz
 ## Mechatronic Engineer|Industrial Managment Student |
 
 
@@ -15,3 +14,5 @@ Spanish (Native) | English (Fluent) |
 ![CNC](https://img.shields.io/badge/-Programación%20CNC-lightgrey?style=for-the-badge)
 ![Automatización](https://img.shields.io/badge/-Automatización-orange?style=for-the-badge)
 ![Metrología](https://img.shields.io/badge/-Metrología-yellow?style=for-the-badge)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-DA1F28?style=for-the-badge&logo=solidworks&logoColor=white)
+![Mastercam](https://img.shields.io/badge/Mastercam-1E5288?style=for-the-badge&logo=mastercam&logoColor=white)
