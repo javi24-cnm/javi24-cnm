@@ -20,7 +20,7 @@ Spanish (Native) | English (Fluent) |
 #### 💻 Automation & Software
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PLC](https://img.shields.io/badge/PLC%20(Siemens%2C%2)-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![PLC](https://img.shields.io/badge/PLC%20-009999?style=for-the-badge&logo=siemens&logoColor=white)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFC20E?style=for-the-badge&logo=labview&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel%20-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
